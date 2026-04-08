@@ -11,7 +11,7 @@ The system relies on MediaPipe for detecting human faces and hands, FaceNet for 
 * Hand gesture recognition.
 * Hardware-level Pan/Tilt camera control.
 
-[![Watch the video](https://img.youtube.com/vi/9OMbF3YzcZI/maxresdefault.jpg)](https://youtu.be/9OMbF3YzcZI)
+[![Watch the video](https://img.youtube.com/vi/9OMbF3YzcZI/hqdefault.jpg)](https://youtu.be/9OMbF3YzcZI)
 
 # Technicalities
 This project is designed and optimized specifically for the Raspberry Pi 5. On startup, the system automatically verifies the availability of the camera and the appropriate machine learning models. Because the system is built for edge computing, it exclusively utilizes TensorFlow Lite (.tflite) models.
